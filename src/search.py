@@ -4,7 +4,6 @@
 import pickle
 import cgi
 import os
-from result import Site
 
 fin = open("spy.pkl", "rb")
 BR = "<br>"
