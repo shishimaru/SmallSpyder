@@ -1,0 +1,11 @@
+SmallSpyder provides below functions:
+  1. Spydering
+     Traces specified web sites with the specified depth,
+     and analyze the contents using natural language processing
+     thanks to Yahoo! JLP service
+     http://developer.yahoo.co.jp/webapi/jlp/ma/v1/parse.html
+     
+  2. Key word search
+     Provides web site urls which contains specified key words.
+
+<hitoshi.uchida@gmail.com>     
